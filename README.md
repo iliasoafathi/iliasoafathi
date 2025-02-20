@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iliasoafathi
-- 👀 I’m interested in coding..
-- 🌱 I’m currently learning { java / kotlin / flutter / dart... }
+- 👀 I’m interested in coding..}
 - 📫 How to reach me / e-mail : iliasfathi14@gmail.com /
 <!---
 iliasoafathi/iliasoafathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
